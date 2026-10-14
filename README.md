@@ -1,4 +1,4 @@
-# Energy Price Coordination
+# EV Price-Based Charging Simulation
 
 This repository contains the simulation code used for the research presented in [our paper](https://ieeexplore.ieee.org/document/11305459).
 
